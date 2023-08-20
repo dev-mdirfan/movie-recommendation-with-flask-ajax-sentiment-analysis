@@ -1,0 +1,29 @@
+# Environments
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+### Flask ###
+instance/*
+!instance/.gitignore
+.webassets-cache
+.env
+
+# Flask stuff:
+instance/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# csv file
+*.csv
+
+
+
+
+
+
+
